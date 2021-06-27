@@ -1,0 +1,6 @@
+"","mtry","trees","min_n","tree_depth","learn_rate","loss_reduction","sample_size",".metric",".estimator","mean","n","std_err",".config"
+"1",26,505,2,8,0.1,1e-10,0.55,"roc_auc","hand_till",0.993669212150445,5,0.00166728295600936,"Preprocessor1_Model0773"
+"2",26,1000,2,8,0.1,1e-10,0.55,"roc_auc","hand_till",0.993556877182299,5,0.00170165739128084,"Preprocessor1_Model0774"
+"3",26,505,2,8,0.1,5.62341325190349e-05,0.55,"roc_auc","hand_till",0.993457754097138,5,0.00172158001860507,"Preprocessor1_Model0854"
+"4",26,505,2,15,0.1,5.62341325190349e-05,0.55,"roc_auc","hand_till",0.993263294520885,5,0.00222850874681828,"Preprocessor1_Model1583"
+"5",26,505,2,15,0.1,1e-10,0.55,"roc_auc","hand_till",0.993244871836401,5,0.00165722149510059,"Preprocessor1_Model1502"
